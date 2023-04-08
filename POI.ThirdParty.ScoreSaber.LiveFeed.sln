@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POI.ThirdParty.ScoreSaber.LiveFeed.Client", "source\POI.ThirdParty.ScoreSaber.LiveFeed.Client\POI.ThirdParty.ScoreSaber.LiveFeed.Client.csproj", "{E8626CFF-9E03-4C24-AB08-1507B9B0EE78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POI.ThirdParty.ScoreSaber.LiveFeed.Contracts", "source\POI.ThirdParty.ScoreSaber.LiveFeed.Contracts\POI.ThirdParty.ScoreSaber.LiveFeed.Contracts.csproj", "{F7674D48-2E41-45F3-BECE-02116910A037}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8626CFF-9E03-4C24-AB08-1507B9B0EE78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8626CFF-9E03-4C24-AB08-1507B9B0EE78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8626CFF-9E03-4C24-AB08-1507B9B0EE78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8626CFF-9E03-4C24-AB08-1507B9B0EE78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7674D48-2E41-45F3-BECE-02116910A037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7674D48-2E41-45F3-BECE-02116910A037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7674D48-2E41-45F3-BECE-02116910A037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7674D48-2E41-45F3-BECE-02116910A037}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
